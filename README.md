@@ -1,0 +1,1 @@
+# initramfs_cpio_gz
